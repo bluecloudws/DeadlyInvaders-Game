@@ -1,2 +1,2 @@
 # DeadlyInvaders-Game
-A reference iOS SpriteKit game
+**Deadly Invaders** is a reference iOS SpriteKit game based on [Matt Heaney Apps] (https://www.facebook.com/MattHeaneyApps/)
